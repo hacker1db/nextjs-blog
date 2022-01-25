@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NextJs blog
+- [Continue your learning here.](https://nextjs.org/learn/basics/data-fetching/pre-rendering)
